@@ -10,7 +10,7 @@
 Saya seorang mahasiswa Teknik Komputer di Institut Teknologi Batam.  
 Fokus utama saya adalah pengembangan front-end, jaringan komputer, dan eksplorasi AI (terutama NLP & CNN).
 
-🎯 **Target saya:** Menjadi programmer jago sebelum akhir 2025.
+🎯 **Target saya:** Menjadi programmer jago sebelum isekai
 
 ---
 
