@@ -43,8 +43,8 @@ Fokus utama saya adalah pengembangan front-end, jaringan komputer, dan eksploras
 - 🔐 **Deteksi Website Phishing**  
   Deteksi berbasis URL menggunakan NLP dan Transformer
 
-- 🎨 **Landing Page Builder**  
-  Proyek magang di PT Mitra Abadi Pariwisata
+- 🎮 **Flappy Bird Game**  
+  Proyek kecil-kecilan link : https://mhafisafrizal.github.io/Game-FlappyBird-Sederhana/
 
 ---
 
